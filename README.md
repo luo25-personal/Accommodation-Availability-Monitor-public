@@ -42,19 +42,9 @@ Discord Webhook 推播通知
 
 ## 通知範例
 
-以下為訊息格式示意（飯店名稱與數字為範例）：
+實際執行時收到的 Discord 通知（飯店名稱已遮蔽）：
 
-```
-🎉 發現空房！
-🕐 查詢時間：2026-07-20 09:00
-
-✈️ 【青森行】
-🏨 ○○飯店 青森站前
-┌ 房型：雙人房（禁菸）
-│　2026-08-07：空房 2 間
-│　2026-08-08：空房 1 間
-└
-```
+<img src="docs/images/discord_notification.png" alt="Discord 空房通知截圖" width="360">
 
 ## 使用技術
 
@@ -65,4 +55,4 @@ Discord Webhook 推播通知
 
 ---
 
-📬 想看原始碼或討論實作細節，歡迎來信：**luo25personal@gmail.com**
+📬 若需討論實作細節，歡迎來信：**luo25personal@gmail.com**
